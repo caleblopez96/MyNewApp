@@ -1,0 +1,14 @@
+// send request to running http server by using this file 
+
+// STEP 1: indiciate name of http method to use: GET, PUT, POST, DELETE
+// STEP 2: provide a route (url and path)
+// http://localhost:5057/
+// STEP 3: hit send request little icon that appears above line
+
+// EXAMPLE:
+
+GET http://localhost:5057/
+
+// a response window opens up with the response
+
+*MAKE SURE YOUR APP IS RUNNING*
