@@ -26,3 +26,4 @@ C:\Users\caleb\OneDrive\Desktop\MyNewApp\MyNewApp\obj\Debug\net9.0\refint\MyNewA
 C:\Users\caleb\OneDrive\Desktop\MyNewApp\MyNewApp\obj\Debug\net9.0\MyNewApp.pdb
 C:\Users\caleb\OneDrive\Desktop\MyNewApp\MyNewApp\obj\Debug\net9.0\MyNewApp.genruntimeconfig.cache
 C:\Users\caleb\OneDrive\Desktop\MyNewApp\MyNewApp\obj\Debug\net9.0\ref\MyNewApp.dll
+C:\Users\caleb\OneDrive\Desktop\MyNewApp\MyNewApp\obj\Debug\net9.0\MyNewApp.sourcelink.json
